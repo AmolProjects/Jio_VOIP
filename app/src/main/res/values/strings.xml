@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZeoVideo</string>
+    <string name="video_voice_calling_application">VIDEO VOICE CALLING APPLICATION</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="CallId">Enter your join id</string>
+    <string name="join">Join</string>
+</resources>
